@@ -13,3 +13,16 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# IDEs directories
+.idea
+.vscode
+
+# macOS attributes
+.DS_Store
+
+# Build directory
+bin/
+
+# Configs
+bot.env
